@@ -66,12 +66,17 @@ public class Playermovement : MonoBehaviour
     private void Shoot()
     {
         Vector3 direction;
-        if (transform.localScale.x == 1.0f) direction = Vector2.right;
+        if (transform.localScale.x == 0.8f) direction = Vector2.right;
         else direction = Vector2.left;
 
-        GameObject bullet = Instantiate(BulletPrefab, transform.position + direction * 0.8f, Quaternion.identity);
+        // Calculate the position of the bullet based on the character's position
+        Vector3 bulletSpawnPosition = transform.position + new Vector3(direction.x * 0.6f, 0.5f, 0.0f);
+
+        // Instantiate the bullet at the correct position
+        GameObject bullet = Instantiate(BulletPrefab, bulletSpawnPosition, Quaternion.identity);
         bullet.GetComponent<BulletScript>().SetDirection(direction);
     }
+
 
     private void FixedUpdate()
     {

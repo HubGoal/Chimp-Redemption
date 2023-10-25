@@ -11,8 +11,8 @@ public class EnemyScript : MonoBehaviour
     private void Update()
     {
         Vector3 direction = Player.transform.position - transform.position;
-        if (direction.x >= 0.0f) transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
-        else transform.localScale = new Vector3( -1.0f, 1.0f, 1.0f);
+        if (direction.x >= 0.0f) transform.localScale = new Vector3(2.6f, 2.6f, 1.0f);
+        else transform.localScale = new Vector3( -2.6f, 2.6f, 1.0f);
     }
 
     public void Hit()

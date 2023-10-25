@@ -17,6 +17,7 @@ public class BulletScript : MonoBehaviour
     private void FixedUpdate()
     {
         Rigidbody2D.velocity = Direction * Speed;
+        Destroy(gameObject, 5.0f);
     }
 
     public void SetDirection(Vector2 direction)
