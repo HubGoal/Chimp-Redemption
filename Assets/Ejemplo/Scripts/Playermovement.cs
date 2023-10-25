@@ -10,6 +10,7 @@ public class Playermovement : MonoBehaviour
 
     private Rigidbody2D Rigidbody2D;
     private float Horizontal;
+    private float Vertical;
     private bool Grounded;
     private Animator Animator;
     private float LastShoot;
@@ -26,6 +27,7 @@ public class Playermovement : MonoBehaviour
     void Update()
     {
         Horizontal = Input.GetAxis("Horizontal");
+        Vertical = Input.GetAxis("Vertical");
 
 
         Animator.SetBool("Walking", Horizontal != 0.0f);
@@ -38,6 +40,7 @@ public class Playermovement : MonoBehaviour
         if (Physics2D.Raycast(transform.position, Vector3.down, 0.2f))
         {
             Grounded = true;
+            Animator.SetBool("Jumping", false);
         }
         else
         {
@@ -59,7 +62,9 @@ public class Playermovement : MonoBehaviour
 
     private void Jump()
     {
+        Animator.SetBool("Jumping", Vertical < 0.2f);
         Rigidbody2D.AddForce(Vector2.up * JumpForce);
+
 
     }
 
