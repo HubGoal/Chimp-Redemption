@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: d2fdab7980bd6b349b3b9dfec25ee9a6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 49
+        width: 58
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1a7729e3a3a964f81ea97d50073cc9
+      internalID: 1867962242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 49
+        width: 52
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db858fa05ed5334eb6d3439f7cc027b
+      internalID: 1544760471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 49
+        width: 57
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea1248c3feea764b85ea2398477c7ee
+      internalID: 1018874858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 49
+        width: 52
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef09c862df51d9d418c15df0c4c28b77
+      internalID: 679606922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 49
+        width: 58
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc3e7caed204394194dcbd8ea4d2db0
+      internalID: 1100576115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 49
+        width: 58
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a749e9e0fa8034b9e36260f282432f
+      internalID: -1559437535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 49
+        width: 55
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955ed5be6d3799f47a5a965be514fd52
+      internalID: 192854822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_0: -462579869
+      fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_1: -55666650
+      fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_10: -1666600907
+      fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_11: 420664567
+      fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_12: -452068047
+      fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_13: 295268714
+      fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_14: -247225168
+      fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_15: 878102701
+      fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_16: 1867962242
+      fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_17: 1544760471
+      fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_18: 1018874858
+      fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_19: -910904986
+      fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_2: -2094130250
+      fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_20: 168087482
+      fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_21: 679606922
+      fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_22: -1633932717
+      fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_23: 192854822
+      fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_24: -1125349955
+      fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_25: 642847975
+      fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_26: 1100576115
+      fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_27: -1559437535
+      fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_3: -302605482
+      fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_4: 365990471
+      fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_5: 1778449893
+      fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_6: -1161490258
+      fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_7: -997593400
+      fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_8: -1118369550
+      fire-flame-pixel-art-animation-sprite-frames-8bit_8071-7999-removebg-preview_9: 746281295
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
