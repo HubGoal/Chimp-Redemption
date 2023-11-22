@@ -3,10 +3,11 @@ using UnityEngine;
 public class EnemyMovement : MonoBehaviour
 {
     public float velocidad = 5f;
-    public float radioDeteccion = 10f;
-    public float radioAtaque = 2f;
+    public float radioDeteccion = 4f;
+    public float radioAtaque = 1f;
     private Transform jugador;
     private Animator animator;
+    private bool estaObstaculizado = false;
 
     private void Start()
     {
@@ -21,32 +22,69 @@ public class EnemyMovement : MonoBehaviour
 
     private void Update()
     {
-        float distanciaAlJugador = Vector3.Distance(transform.position, jugador.position);
+        if (!estaObstaculizado)
+        {
+            float distanciaAlJugador = Vector3.Distance(transform.position, jugador.position);
 
-        // Verificar si hay un obstáculo entre el enemigo y el jugador
-        bool hayObstaculo = Physics.Linecast(transform.position, jugador.position, LayerMask.GetMask("Obstacle"));
-
-        if (distanciaAlJugador <= radioAtaque)
-        {
-            animator.SetBool("Attack", true);
-        }
-        else if (distanciaAlJugador <= radioDeteccion && !hayObstaculo)
-        {
-            animator.SetBool("Walk", true);
-            animator.SetBool("Attack", false);
-            MoverHaciaJugador();
-        }
-        else
-        {
-            animator.SetBool("Idle", true);
-            animator.SetBool("Walk", false);
-            animator.SetBool("Attack", false);
+            if (distanciaAlJugador <= radioAtaque)
+            {
+                animator.SetBool("Attack", true);
+                MoverHaciaJugador();
+            }
+            else if (distanciaAlJugador <= radioDeteccion)
+            {
+                animator.SetBool("Walk", true);
+                animator.SetBool("Attack", false);
+                MoverHaciaJugador();
+            }
+            else
+            {
+                animator.SetBool("Idle", true);
+                animator.SetBool("Walk", false);
+                animator.SetBool("Attack", false);
+            }
         }
     }
 
     private void MoverHaciaJugador()
     {
         Vector3 direccionAlJugador = (jugador.position - transform.position).normalized;
-        transform.Translate(direccionAlJugador * velocidad * Time.deltaTime);
+
+        // Cambiar la escala para voltear en el eje x
+        if (direccionAlJugador.x >= 0.0f)
+        {
+            transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
+        }
+        else
+        {
+            transform.localScale = new Vector3(-1.0f, 1.0f, 1.0f);
+        }
+
+        // Mover hacia el jugador
+        transform.position = Vector3.MoveTowards(transform.position, jugador.position, velocidad * Time.deltaTime);
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("Obstacle"))
+        {
+            estaObstaculizado = true;
+            DetenerMovimiento();
+        }
+    }
+
+    private void OnTriggerExit(Collider other)
+    {
+        if (other.CompareTag("Obstacle"))
+        {
+            estaObstaculizado = false;
+        }
+    }
+
+    private void DetenerMovimiento()
+    {
+        animator.SetBool("Idle", true);
+        animator.SetBool("Walk", false);
+        animator.SetBool("Attack", false);
     }
 }
