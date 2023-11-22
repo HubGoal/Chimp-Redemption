@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 9956e491188bb564ba4061bd2a383eef
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1918
+        width: 59
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d2064258e7bc94e80335e559e6f67e
+      internalID: -1921176617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_1
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1918
+        width: 60
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31eba8f93769af42ac98f87b5bffe61
+      internalID: -345311109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_2
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1921
+        width: 60
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d965a6c6e945a0049b6fbca2226be1ed
+      internalID: -1426960200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_3
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1923
+        width: 61
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372c0141e58cd764d92af1c0c6eb0953
+      internalID: -417049052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_4
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1923
+        width: 60
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928b7b006477a8d458d8a1ef086d1fdd
+      internalID: 1139794058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_5
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1922
+        width: 59
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daac271aff95c094ea4f5ebaab1aade4
+      internalID: -17072662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_6
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1921
+        width: 58
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3d4d0c763a8b043ab476a2aa8ef8cf
+      internalID: 505145588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_7
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 1919
+        width: 57
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7540a6b3a69747442a8bcf843ab7172c
+      internalID: -1042857536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1662
+        width: 57
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44598c75b417aad48ab999bdc85e1195
+      internalID: -1790280365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_9
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1662
+        width: 56
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bb52a15095b2c4d8aa8c3c66c86d58
+      internalID: 881150656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_10
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1661
+        width: 53
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5495839c0cd5e641b9b8e7554045ece
+      internalID: 1112063295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_11
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1655
+        width: 52
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb205b0999c415640bd3ca523cabe319
+      internalID: 2097588718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_12
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1662
+        width: 59
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4ddbfdc26cd4744a7dd1dc2f6c5075
+      internalID: -1256214903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_13
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1663
+        width: 62
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8508233d6d6e14685032e073f0c1cc
+      internalID: -196796332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_14
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1664
+        width: 63
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e28c62a1a2c9b74286414c7d0a7af20
+      internalID: -1434617103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_15
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1665
+        width: 62
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47ed62471e6f4f46a639920742a2a65
+      internalID: -248906495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_16
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1408
+        width: 61
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583cab5935631ac4fa133c473d766cbc
+      internalID: -338549294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_17
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1407
+        width: 61
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f3196ce3d7b604380d9f4d4e6ad0c3
+      internalID: -1265907482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_18
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1406
+        width: 60
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac7de65ad5f3c94f87c64c5c7058c6c
+      internalID: 314262027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_19
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1405
+        width: 53
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e69a18604cea4f4394da6220817ebb3
+      internalID: -814877503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_20
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1404
+        width: 54
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63058805e559a384e890c5a8c8447ed8
+      internalID: 1134249370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_21
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1405
+        width: 56
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b806f37292b70f459a48c2141ee1104
+      internalID: -481538761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_22
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1402
+        width: 53
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546852236e39a624ebf94423345ed7a7
+      internalID: 1142627330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_23
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1406
+        width: 60
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36199b5c757fdbb40bfa165d3f76fd33
+      internalID: -1703938477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_24
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1150
+        width: 60
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d700827dd1abe4e4e96c49ebef30bde9
+      internalID: -266817636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_25
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1150
+        width: 60
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19db8529c7cf79c4592cb092fe7478e9
+      internalID: 692070711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_26
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1150
+        width: 60
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccbe832c5abf564cb89a090a286fb03
+      internalID: -1350816370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_27
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1150
+        width: 60
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76ca8ea309934a449da854f58fbe43a
+      internalID: 111277102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_28
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1150
+        width: 60
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037f51869b853f04c8ce97927151d07f
+      internalID: 997679474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_29
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1150
+        width: 60
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfc1e4a548bdce4eb624e1dad862c82
+      internalID: -1130779155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_30
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1150
+        width: 60
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a376a88102a44348b39f95af594043d
+      internalID: -522585645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_31
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1150
+        width: 60
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7c22b68ce97d241a882f9d3fbddae9
+      internalID: 35547381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_32
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 894
+        width: 60
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de640813605c78a4082604bd9e2398e4
+      internalID: 335273998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_33
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 894
+        width: 60
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655d01e57f700a04e8bc823ec20046fe
+      internalID: -559957901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_34
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 894
+        width: 60
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b57c2bfb77d08a428c8f79760a6aa1a
+      internalID: -237888052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_35
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 894
+        width: 60
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90290337ae262a48b3e5dac3e57cda7
+      internalID: 314249103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_36
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 894
+        width: 60
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a304fdb2a2b90488c6f00ea7db36fe
+      internalID: -2045527865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_37
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 894
+        width: 60
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b6994bcaa03e44d896a9d1c523cf78
+      internalID: -756589637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_38
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 894
+        width: 60
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708deee7d7d4af04c841d6b51e4aa3c1
+      internalID: -497218917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_39
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 894
+        width: 60
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916bb9b56f06649478ba61993b652fd7
+      internalID: -11292189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_40
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 638
+        width: 60
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2e12934baffca48a62c99d6b1ea890
+      internalID: -907202968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_41
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 638
+        width: 60
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84becdcd8b377fb46b153b3be31911c0
+      internalID: 52862736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_42
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 638
+        width: 60
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc380eb3bc1d19247b229aed7d37ef35
+      internalID: 754891835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_43
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 638
+        width: 60
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544c6f65489db5a4e8cc69f6d627189e
+      internalID: 300491630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_44
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 638
+        width: 60
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638400ece4dbf4b4fa653e65944cb400
+      internalID: -381157670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_45
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 638
+        width: 60
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8797a64127d7cf34c9baf078e463b4b7
+      internalID: -271168344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_46
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 638
+        width: 60
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa20358b5ac6dc343a3f9f0bb369a08e
+      internalID: -1155124878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeBionicwalk_47
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 638
+        width: 60
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafefdd6c54a0e24c973d4923f88fe6b
+      internalID: -220549695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      EnemyApeBionicwalk_0: -1921176617
+      EnemyApeBionicwalk_1: -345311109
+      EnemyApeBionicwalk_10: 1112063295
+      EnemyApeBionicwalk_11: 2097588718
+      EnemyApeBionicwalk_12: -1256214903
+      EnemyApeBionicwalk_13: -196796332
+      EnemyApeBionicwalk_14: -1434617103
+      EnemyApeBionicwalk_15: -248906495
+      EnemyApeBionicwalk_16: -338549294
+      EnemyApeBionicwalk_17: -1265907482
+      EnemyApeBionicwalk_18: 314262027
+      EnemyApeBionicwalk_19: -814877503
+      EnemyApeBionicwalk_2: -1426960200
+      EnemyApeBionicwalk_20: 1134249370
+      EnemyApeBionicwalk_21: -481538761
+      EnemyApeBionicwalk_22: 1142627330
+      EnemyApeBionicwalk_23: -1703938477
+      EnemyApeBionicwalk_24: -266817636
+      EnemyApeBionicwalk_25: 692070711
+      EnemyApeBionicwalk_26: -1350816370
+      EnemyApeBionicwalk_27: 111277102
+      EnemyApeBionicwalk_28: 997679474
+      EnemyApeBionicwalk_29: -1130779155
+      EnemyApeBionicwalk_3: -417049052
+      EnemyApeBionicwalk_30: -522585645
+      EnemyApeBionicwalk_31: 35547381
+      EnemyApeBionicwalk_32: 335273998
+      EnemyApeBionicwalk_33: -559957901
+      EnemyApeBionicwalk_34: -237888052
+      EnemyApeBionicwalk_35: 314249103
+      EnemyApeBionicwalk_36: -2045527865
+      EnemyApeBionicwalk_37: -756589637
+      EnemyApeBionicwalk_38: -497218917
+      EnemyApeBionicwalk_39: -11292189
+      EnemyApeBionicwalk_4: 1139794058
+      EnemyApeBionicwalk_40: -907202968
+      EnemyApeBionicwalk_41: 52862736
+      EnemyApeBionicwalk_42: 754891835
+      EnemyApeBionicwalk_43: 300491630
+      EnemyApeBionicwalk_44: -381157670
+      EnemyApeBionicwalk_45: -271168344
+      EnemyApeBionicwalk_46: -1155124878
+      EnemyApeBionicwalk_47: -220549695
+      EnemyApeBionicwalk_5: -17072662
+      EnemyApeBionicwalk_6: 505145588
+      EnemyApeBionicwalk_7: -1042857536
+      EnemyApeBionicwalk_8: -1790280365
+      EnemyApeBionicwalk_9: 881150656
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
