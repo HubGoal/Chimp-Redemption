@@ -8,6 +8,7 @@ public class EnemyMovement : MonoBehaviour
     private Transform jugador;
     private Animator animator;
     private bool estaObstaculizado = false;
+    private int Health = 3;
 
     private void Start()
     {
@@ -53,11 +54,11 @@ public class EnemyMovement : MonoBehaviour
         // Cambiar la escala para voltear en el eje x
         if (direccionAlJugador.x >= 0.0f)
         {
-            transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
+            transform.localScale = new Vector3(1.5f, 1.5f, 1.5f);
         }
         else
         {
-            transform.localScale = new Vector3(-1.0f, 1.0f, 1.0f);
+            transform.localScale = new Vector3(-1.5f, 1.5f, 1.5f);
         }
 
         // Mover hacia el jugador
@@ -79,6 +80,12 @@ public class EnemyMovement : MonoBehaviour
         {
             estaObstaculizado = false;
         }
+    }
+
+    public void Hit()
+    {
+        Health = Health - 1;
+        if (Health == 0) Destroy(gameObject);
     }
 
     private void DetenerMovimiento()
