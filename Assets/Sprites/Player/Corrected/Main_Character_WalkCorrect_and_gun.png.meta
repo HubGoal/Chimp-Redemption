@@ -1,0 +1,721 @@
+fileFormatVersion: 2
+guid: aeca47da7b245b5468a4865eaf40e5ed
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Main_Character_WalkCorrect_and_gun_0
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1919
+        width: 91
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f32902967060d4aa4554af3e11f8ee
+      internalID: -1148439746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_WalkCorrect_and_gun_1
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1920
+        width: 89
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987125632a907224d930a1012b8ebb96
+      internalID: -785920564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_WalkCorrect_and_gun_2
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1921
+        width: 88
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ef53fe0a7a88c499c09280f235afc8
+      internalID: 715294889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_WalkCorrect_and_gun_3
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1921
+        width: 86
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0d8d6c62f5f6343a4a8e03f0862f36
+      internalID: -1150303075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_WalkCorrect_and_gun_4
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1921
+        width: 83
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8681a842bcb0094ab0ef4fb6ba84f8a
+      internalID: 1224544023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_WalkCorrect_and_gun_5
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1922
+        width: 83
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a3af5666fd27241bc7a76248193acb
+      internalID: -1279443756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_WalkCorrect_and_gun_6
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1922
+        width: 84
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c71108e64a1c2b4ab448d4e46ba4036
+      internalID: 1117506452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_WalkCorrect_and_gun_7
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1922
+        width: 83
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fff64a6b0be3d46986717dbd226f9e
+      internalID: 1636789631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_WalkCorrect_and_gun_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1666
+        width: 84
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4073f14bb50d184e97a45d60414bff5
+      internalID: 613845476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_WalkCorrect_and_gun_9
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1665
+        width: 84
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e029e603a8daf1f48a1ca4a02c5dc145
+      internalID: 1285544342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_WalkCorrect_and_gun_10
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1664
+        width: 84
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3541b81cfff62f342907ea881e529a0f
+      internalID: 1927612947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_WalkCorrect_and_gun_11
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1664
+        width: 85
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890e2a8fde8845d468f1194e3023ea03
+      internalID: -378583576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_WalkCorrect_and_gun_12
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1663
+        width: 84
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a262221f9ec74f24090d3c092e25edb7
+      internalID: 1220711089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_WalkCorrect_and_gun_13
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1663
+        width: 85
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295a692edddf96345aae0cc34ced1dda
+      internalID: -15464622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_WalkCorrect_and_gun_14
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1663
+        width: 85
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3befa4ae7d0fb47448db913edf27541e
+      internalID: -797556727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_WalkCorrect_and_gun_15
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1663
+        width: 86
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a51d91d7950747419ee4f26099208c7
+      internalID: 1089333998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_WalkCorrect_and_gun_16
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1407
+        width: 87
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460a3def06e813042a28f39d33d80ba4
+      internalID: 359208893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_WalkCorrect_and_gun_17
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1407
+        width: 88
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa2e6676cb40794eb2ed8c3deba9911
+      internalID: 667633141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_WalkCorrect_and_gun_18
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1407
+        width: 88
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6945bc24839f0064a84e0546acc281b6
+      internalID: 442807134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_WalkCorrect_and_gun_19
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1407
+        width: 88
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e6bb3e97a528a42baa5c2297cbe468
+      internalID: 969539021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_WalkCorrect_and_gun_20
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1407
+        width: 86
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fcce1ce4d87e34bb372f36ac0c3df4
+      internalID: -1888356144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_WalkCorrect_and_gun_21
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1407
+        width: 86
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6035bd6be229bf742b444c9f91ed5be8
+      internalID: -1638207693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_WalkCorrect_and_gun_22
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1407
+        width: 86
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f1d89cdba2f304a831a0b29a33448d
+      internalID: -841536669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_WalkCorrect_and_gun_23
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1407
+        width: 86
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7070feb9230940746895f91017fd6c8a
+      internalID: -858345146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_WalkCorrect_and_gun_24
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1151
+        width: 86
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bdccb28668dc64589580b6a6e1d7c7
+      internalID: -1945748356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_WalkCorrect_and_gun_25
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1151
+        width: 88
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f421fd2bf0cc2b4f92e5723c1d511a3
+      internalID: -1695900607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_WalkCorrect_and_gun_26
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1151
+        width: 92
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8854b928d824bc14a817868471aa22eb
+      internalID: -260570952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Main_Character_WalkCorrect_and_gun_0: -1148439746
+      Main_Character_WalkCorrect_and_gun_1: -785920564
+      Main_Character_WalkCorrect_and_gun_10: 1927612947
+      Main_Character_WalkCorrect_and_gun_11: -378583576
+      Main_Character_WalkCorrect_and_gun_12: 1220711089
+      Main_Character_WalkCorrect_and_gun_13: -15464622
+      Main_Character_WalkCorrect_and_gun_14: -797556727
+      Main_Character_WalkCorrect_and_gun_15: 1089333998
+      Main_Character_WalkCorrect_and_gun_16: 359208893
+      Main_Character_WalkCorrect_and_gun_17: 667633141
+      Main_Character_WalkCorrect_and_gun_18: 442807134
+      Main_Character_WalkCorrect_and_gun_19: 969539021
+      Main_Character_WalkCorrect_and_gun_2: 715294889
+      Main_Character_WalkCorrect_and_gun_20: -1888356144
+      Main_Character_WalkCorrect_and_gun_21: -1638207693
+      Main_Character_WalkCorrect_and_gun_22: -841536669
+      Main_Character_WalkCorrect_and_gun_23: -858345146
+      Main_Character_WalkCorrect_and_gun_24: -1945748356
+      Main_Character_WalkCorrect_and_gun_25: -1695900607
+      Main_Character_WalkCorrect_and_gun_26: -260570952
+      Main_Character_WalkCorrect_and_gun_3: -1150303075
+      Main_Character_WalkCorrect_and_gun_4: 1224544023
+      Main_Character_WalkCorrect_and_gun_5: -1279443756
+      Main_Character_WalkCorrect_and_gun_6: 1117506452
+      Main_Character_WalkCorrect_and_gun_7: 1636789631
+      Main_Character_WalkCorrect_and_gun_8: 613845476
+      Main_Character_WalkCorrect_and_gun_9: 1285544342
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

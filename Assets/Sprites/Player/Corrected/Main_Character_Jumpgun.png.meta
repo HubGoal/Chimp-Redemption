@@ -1,0 +1,787 @@
+fileFormatVersion: 2
+guid: 6443505a4f3a55a43b9552672c11752a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Main_Character_Jumpgun_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1401
+        width: 77
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338086b2a63e04d44993427c992af861
+      internalID: -961863184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_Jumpgun_1
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1402
+        width: 67
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142262abbe56fbd4ab64c11c6bcd0c44
+      internalID: 1453746674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_Jumpgun_2
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1409
+        width: 66
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16afa5217853cd469bcff4930a1faef
+      internalID: 49959290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_Jumpgun_3
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1407
+        width: 73
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b36d37d8f8b864fa55e7b8825d81de
+      internalID: 1398461132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_Jumpgun_4
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1406
+        width: 78
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb5edb39ef584c4486fd70a55fb44a3
+      internalID: 971552055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_Jumpgun_5
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1406
+        width: 77
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e421547587f7e4f8524fb3e9a069a0
+      internalID: 646769878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_Jumpgun_6
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1151
+        width: 75
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f34d6e572058e44bcdad41dec6d1eb
+      internalID: 563630801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_Jumpgun_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1153
+        width: 80
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0093f23521383fa4a8921ae08d20e722
+      internalID: 1885009464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_Jumpgun_8
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1156
+        width: 83
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47a2ca8bfc86594c9d4646a7655ccab
+      internalID: -68228327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_Jumpgun_9
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1158
+        width: 83
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b8226a27de6b949a5510acfc096431
+      internalID: -202001131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_Jumpgun_10
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1160
+        width: 83
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768fe175d6e481e4a958ded3dc7f56c8
+      internalID: -854970951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_Jumpgun_11
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1155
+        width: 82
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7da917c817b2704e82b4730a55d0056
+      internalID: -989340136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_Jumpgun_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 893
+        width: 81
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0363b4b71fc6647b17d3bdc1ba9bbf
+      internalID: -1559636914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_Jumpgun_13
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 892
+        width: 81
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ac2eb6e73227e45b3edf17c2523b91
+      internalID: -1943148069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_Jumpgun_14
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 892
+        width: 80
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9b5983b08fbc240a3e69d194bdac6e
+      internalID: -515535751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_Jumpgun_15
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 891
+        width: 80
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383807d687ada1243837a9b48117edda
+      internalID: 79199112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_Jumpgun_16
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 891
+        width: 80
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe4b3015e34ad142b98c2eabc447fd5
+      internalID: -972973823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_Jumpgun_17
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 890
+        width: 79
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13a2056a1919e0498988b6d1bd7b993
+      internalID: 1718474375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_Jumpgun_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 634
+        width: 78
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62139b454c643148b1dea4231ca85cb
+      internalID: 2034063757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_Jumpgun_19
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 633
+        width: 78
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ef80cafc80afd4f821a740e9d59041
+      internalID: -1004402882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_Jumpgun_20
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 633
+        width: 78
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b3cf1fa45d35d4784c7b7f20fb1851
+      internalID: 1673972687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_Jumpgun_21
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 633
+        width: 78
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870c445332ad7ce4da0349d42cbbf60b
+      internalID: -249221272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_Jumpgun_22
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 633
+        width: 78
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cb2f7925c852843a38ccd5db4bb98c
+      internalID: -1449749601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_Jumpgun_23
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 633
+        width: 78
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d16171886cd1794a9c7cdab73f198da
+      internalID: -473619904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_Jumpgun_24
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 377
+        width: 78
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9072d7a6fad745a4c8437e3238ce3a4d
+      internalID: 904280581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_Jumpgun_25
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 377
+        width: 78
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a284fa4d3c922ad4fb751cbc30a4577f
+      internalID: -323779543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_Jumpgun_26
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 377
+        width: 77
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8b9c2b1d5dab74c9bfe901f1f68d53
+      internalID: 119171477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_Jumpgun_27
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 377
+        width: 77
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c058c7c4a6429c4c920310ecff08a55
+      internalID: -1285758433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_Jumpgun_28
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 377
+        width: 77
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e9920a5b2bacb41b83806f4dd2e154
+      internalID: 735531113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_Jumpgun_29
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 377
+        width: 77
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e72e1d2368ff18408d91be1c1fd2428
+      internalID: 1767233550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Main_Character_Jumpgun_0: -961863184
+      Main_Character_Jumpgun_1: 1453746674
+      Main_Character_Jumpgun_10: -854970951
+      Main_Character_Jumpgun_11: -989340136
+      Main_Character_Jumpgun_12: -1559636914
+      Main_Character_Jumpgun_13: -1943148069
+      Main_Character_Jumpgun_14: -515535751
+      Main_Character_Jumpgun_15: 79199112
+      Main_Character_Jumpgun_16: -972973823
+      Main_Character_Jumpgun_17: 1718474375
+      Main_Character_Jumpgun_18: 2034063757
+      Main_Character_Jumpgun_19: -1004402882
+      Main_Character_Jumpgun_2: 49959290
+      Main_Character_Jumpgun_20: 1673972687
+      Main_Character_Jumpgun_21: -249221272
+      Main_Character_Jumpgun_22: -1449749601
+      Main_Character_Jumpgun_23: -473619904
+      Main_Character_Jumpgun_24: 904280581
+      Main_Character_Jumpgun_25: -323779543
+      Main_Character_Jumpgun_26: 119171477
+      Main_Character_Jumpgun_27: -1285758433
+      Main_Character_Jumpgun_28: 735531113
+      Main_Character_Jumpgun_29: 1767233550
+      Main_Character_Jumpgun_3: 1398461132
+      Main_Character_Jumpgun_4: 971552055
+      Main_Character_Jumpgun_5: 646769878
+      Main_Character_Jumpgun_6: 563630801
+      Main_Character_Jumpgun_7: 1885009464
+      Main_Character_Jumpgun_8: -68228327
+      Main_Character_Jumpgun_9: -202001131
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

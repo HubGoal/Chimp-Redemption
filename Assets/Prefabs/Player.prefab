@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 1429870901649475407}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -101,7 +101,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   BulletPrefab: {fileID: 6311423886802411724, guid: 5d9546ae252aee542a5507e1f4a7ef91, type: 3}
-  JumpForce: 150
+  JumpForce: 200
   Speed: 100
 --- !u!50 &199819888931559081
 Rigidbody2D:
