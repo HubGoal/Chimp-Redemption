@@ -72,7 +72,7 @@ public class PlayerMovementV2 : MonoBehaviour
             {
                 Flip();
             }
-            else if(hForce < 0 && !Orientation) {
+            else if(hForce < 0 && Orientation) {
                 Flip();
             }
 
@@ -85,7 +85,6 @@ public class PlayerMovementV2 : MonoBehaviour
             }
         }
     }
-
     void Flip()
     {
         Orientation = !Orientation;
@@ -94,4 +93,5 @@ public class PlayerMovementV2 : MonoBehaviour
         scale.x *= -1;
         transform.localScale = scale;
     }
+
 }
