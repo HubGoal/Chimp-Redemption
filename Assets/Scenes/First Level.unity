@@ -625,9 +625,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6880d522c693cc4d8557b13e5fc21fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  velocidad: 0.5
-  radioDeteccion: 4
-  radioAtaque: 0.5
 --- !u!70 &306443956
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -2742,6 +2739,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!4 &1899328284 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8923845743693092858, guid: f65bf507b87eac94ab911ce3ec4777e5, type: 3}
+  m_PrefabInstance: {fileID: 117628603908536487}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1949038932
 GameObject:
   m_ObjectHideFlags: 0
@@ -4743,6 +4745,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7891099201044509908, guid: f65bf507b87eac94ab911ce3ec4777e5, type: 3}
+      propertyPath: shootSpawner
+      value: 
+      objectReference: {fileID: 1899328284}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

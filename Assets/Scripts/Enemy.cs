@@ -47,7 +47,6 @@ public class Enemy : MonoBehaviour
         health -= damage;
         if(health <= 0)
         {
-            Instantiate(deathanimation, transform.position, transform.rotation);
 
             gameObject.SetActive(false);
         }

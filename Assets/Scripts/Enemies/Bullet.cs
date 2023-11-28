@@ -24,7 +24,7 @@ public class Bullet : MonoBehaviour
     {
         Enemy otherEnemy = other.GetComponent<Enemy>();
 
-        if (otherEnemy != null )
+        if (otherEnemy != null)
         {
             otherEnemy.TakeDamage(damage);
         }

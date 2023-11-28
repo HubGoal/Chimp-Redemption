@@ -6,7 +6,8 @@ public class PlayerMovementV2 : MonoBehaviour
 {
     public float Speed = 10f;
     public float JumpForce = 20f;
-
+    public GameObject bulletPrefab;
+    public Transform shootSpawner;
 
     private Animator anim;
     private Rigidbody2D RGBD2D;
@@ -15,6 +16,8 @@ public class PlayerMovementV2 : MonoBehaviour
     private bool Grounded = false;
     private Transform groundCheck;
     private float hForce = 0;
+    private float fireRate = 0.5f;
+    private float nextFire;
 
     private bool isDead = false;
     void Start()
@@ -47,9 +50,16 @@ public class PlayerMovementV2 : MonoBehaviour
                     RGBD2D.velocity = new Vector2(RGBD2D.velocity.x, RGBD2D.velocity.y * 0.5f);
                 }
             }
-            if (Input.GetButtonDown("Fire1"))
+            if (Input.GetButtonDown("Fire1") && Time.time > nextFire)
             {
+                nextFire = Time.time + fireRate;
                 anim.SetTrigger("Shoot");
+                GameObject tempBullet = Instantiate(bulletPrefab, shootSpawner.position, shootSpawner.rotation);
+                
+                if (!Orientation)
+                {
+                    tempBullet.transform.eulerAngles = new Vector3(0, 0, 180);
+                }
             }
 
             
