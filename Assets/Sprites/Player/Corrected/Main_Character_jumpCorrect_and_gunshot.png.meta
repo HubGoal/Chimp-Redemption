@@ -1,0 +1,816 @@
+fileFormatVersion: 2
+guid: 60560137110eb17499fddc42d66b6ac6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Main_Character_jumpCorrect_and_gunshot_0
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1402
+        width: 78
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997438570ba3d3c48b850ea5fcef4f72
+      internalID: -614312710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_jumpCorrect_and_gunshot_1
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1409
+        width: 96
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7450fe8b1c04e4d8e51cb2eef5c36c
+      internalID: -1777681686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_jumpCorrect_and_gunshot_3
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1407
+        width: 101
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c8089e7f4ea034ba414660e9f60b55
+      internalID: -198124575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_jumpCorrect_and_gunshot_5
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1406
+        width: 99
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50b6251ddedc524fbeb48842bb9b419
+      internalID: -1973117656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_jumpCorrect_and_gunshot_7
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1406
+        width: 98
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05110fec068c5394997b4c2b9f3219d6
+      internalID: 234257260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_jumpCorrect_and_gunshot_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1399
+        width: 79
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4036fba365d8d54c85c5b0b76aa46d1
+      internalID: 1450339281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_jumpCorrect_and_gunshot_14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1151
+        width: 97
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424a546bd696c8d4883a9be2064a7532
+      internalID: -808940439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_jumpCorrect_and_gunshot_16
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1153
+        width: 94
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56555a413100d71419ca2c17648108d4
+      internalID: 1345549593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_jumpCorrect_and_gunshot_18
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1156
+        width: 83
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b4359ec23f7d24598e50d45e9137a6
+      internalID: -846143665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_jumpCorrect_and_gunshot_19
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1158
+        width: 83
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d1437fa5a21964488645a80ddc4734
+      internalID: 727575570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_jumpCorrect_and_gunshot_20
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1160
+        width: 83
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788f2771abb105149aa68ef61d1616e3
+      internalID: -545643355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_jumpCorrect_and_gunshot_21
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1155
+        width: 98
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1eeede31d5376c428452438c5d56755
+      internalID: 313888905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_jumpCorrect_and_gunshot_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 893
+        width: 98
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59aa21794da41874f9c9cc3cbe3c8b0e
+      internalID: -1032806035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_jumpCorrect_and_gunshot_24
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 892
+        width: 99
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6ba191a73273546880be7671d7dec7
+      internalID: 1097720397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_jumpCorrect_and_gunshot_27
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 892
+        width: 98
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fdd5fe1f692cc419be5bbbc98ecf3e
+      internalID: -1045218369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_jumpCorrect_and_gunshot_30
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 891
+        width: 97
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30aaf6da931b494b9e25c45510bd210
+      internalID: -1697220674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_jumpCorrect_and_gunshot_32
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 891
+        width: 98
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47075ce16c33ac6458673a9154526435
+      internalID: 590728950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_jumpCorrect_and_gunshot_34
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 890
+        width: 84
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0ec990c2916f9449bf7d2ff8d06ba7
+      internalID: -374096052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_jumpCorrect_and_gunshot_37
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 634
+        width: 84
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13155b066dba863429d3f6963ce41872
+      internalID: -1612370854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_jumpCorrect_and_gunshot_38
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 633
+        width: 85
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f205aba4ebeac2246934c9b9dfc8c3b4
+      internalID: -900664162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_jumpCorrect_and_gunshot_39
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 633
+        width: 100
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd82fb888b5f2f40ae5102bda49992b
+      internalID: 1324844077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_jumpCorrect_and_gunshot_41
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 633
+        width: 101
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a87b3f37d824d946919420dd96d6fa2
+      internalID: 2064081610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_jumpCorrect_and_gunshot_43
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 633
+        width: 102
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a30da3c7e6ffad44935d08e24745d4c
+      internalID: 1992670603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_jumpCorrect_and_gunshot_46
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 633
+        width: 101
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9685ac6cd0463b4fbabdb478f4bae1d
+      internalID: -1939648960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_jumpCorrect_and_gunshot_51
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 377
+        width: 100
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ce5ada80146954b80f7035e2268ca7
+      internalID: -1681511755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_jumpCorrect_and_gunshot_53
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 377
+        width: 100
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2971c61f18fe87d4780ff8bc0b1dcab4
+      internalID: 1507644536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_jumpCorrect_and_gunshot_55
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 377
+        width: 86
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3134e6ab0f3854bacc2f880bd9e6fd
+      internalID: 1723121328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_jumpCorrect_and_gunshot_56
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 377
+        width: 86
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f16c5ae4e23ff64eb4533cd7ac306b3
+      internalID: -994275877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_jumpCorrect_and_gunshot_57
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 377
+        width: 87
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4e83ced99bdaf4883aab199123b417
+      internalID: -8918681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_jumpCorrect_and_gunshot_58
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 377
+        width: 87
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23e96c3bafd1d84e9e3a2f6ccd8159d
+      internalID: 1214908120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Main_Character_jumpCorrect_and_gunshot_0: -614312710
+      Main_Character_jumpCorrect_and_gunshot_1: -1777681686
+      Main_Character_jumpCorrect_and_gunshot_10: -151438872
+      Main_Character_jumpCorrect_and_gunshot_11: 880269330
+      Main_Character_jumpCorrect_and_gunshot_12: 1831724953
+      Main_Character_jumpCorrect_and_gunshot_13: 1450339281
+      Main_Character_jumpCorrect_and_gunshot_14: -808940439
+      Main_Character_jumpCorrect_and_gunshot_15: 1456433778
+      Main_Character_jumpCorrect_and_gunshot_16: 1345549593
+      Main_Character_jumpCorrect_and_gunshot_17: 2003204767
+      Main_Character_jumpCorrect_and_gunshot_18: -846143665
+      Main_Character_jumpCorrect_and_gunshot_19: 727575570
+      Main_Character_jumpCorrect_and_gunshot_2: 686085503
+      Main_Character_jumpCorrect_and_gunshot_20: -545643355
+      Main_Character_jumpCorrect_and_gunshot_21: 313888905
+      Main_Character_jumpCorrect_and_gunshot_22: 781767600
+      Main_Character_jumpCorrect_and_gunshot_23: -1032806035
+      Main_Character_jumpCorrect_and_gunshot_24: 1097720397
+      Main_Character_jumpCorrect_and_gunshot_25: -1350821609
+      Main_Character_jumpCorrect_and_gunshot_26: 1387143799
+      Main_Character_jumpCorrect_and_gunshot_27: -1045218369
+      Main_Character_jumpCorrect_and_gunshot_28: 1019006224
+      Main_Character_jumpCorrect_and_gunshot_29: 1065461521
+      Main_Character_jumpCorrect_and_gunshot_3: -198124575
+      Main_Character_jumpCorrect_and_gunshot_30: -1697220674
+      Main_Character_jumpCorrect_and_gunshot_31: 2118911910
+      Main_Character_jumpCorrect_and_gunshot_32: 590728950
+      Main_Character_jumpCorrect_and_gunshot_33: -1759704033
+      Main_Character_jumpCorrect_and_gunshot_34: -374096052
+      Main_Character_jumpCorrect_and_gunshot_35: 777389741
+      Main_Character_jumpCorrect_and_gunshot_36: -292039847
+      Main_Character_jumpCorrect_and_gunshot_37: -1612370854
+      Main_Character_jumpCorrect_and_gunshot_38: -900664162
+      Main_Character_jumpCorrect_and_gunshot_39: 1324844077
+      Main_Character_jumpCorrect_and_gunshot_4: -1917116065
+      Main_Character_jumpCorrect_and_gunshot_40: 934312010
+      Main_Character_jumpCorrect_and_gunshot_41: 2064081610
+      Main_Character_jumpCorrect_and_gunshot_42: 247763348
+      Main_Character_jumpCorrect_and_gunshot_43: 1992670603
+      Main_Character_jumpCorrect_and_gunshot_44: -1121562306
+      Main_Character_jumpCorrect_and_gunshot_45: -877597594
+      Main_Character_jumpCorrect_and_gunshot_46: -1939648960
+      Main_Character_jumpCorrect_and_gunshot_47: 496677830
+      Main_Character_jumpCorrect_and_gunshot_48: -610907891
+      Main_Character_jumpCorrect_and_gunshot_49: 566607011
+      Main_Character_jumpCorrect_and_gunshot_5: -1973117656
+      Main_Character_jumpCorrect_and_gunshot_50: -339359078
+      Main_Character_jumpCorrect_and_gunshot_51: -1681511755
+      Main_Character_jumpCorrect_and_gunshot_52: 1899136368
+      Main_Character_jumpCorrect_and_gunshot_53: 1507644536
+      Main_Character_jumpCorrect_and_gunshot_54: 311062429
+      Main_Character_jumpCorrect_and_gunshot_55: 1723121328
+      Main_Character_jumpCorrect_and_gunshot_56: -994275877
+      Main_Character_jumpCorrect_and_gunshot_57: -8918681
+      Main_Character_jumpCorrect_and_gunshot_58: 1214908120
+      Main_Character_jumpCorrect_and_gunshot_6: -23602832
+      Main_Character_jumpCorrect_and_gunshot_7: 234257260
+      Main_Character_jumpCorrect_and_gunshot_8: -1118566923
+      Main_Character_jumpCorrect_and_gunshot_9: -562388041
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
