@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerMovementV2 : MonoBehaviour
 {
@@ -8,6 +9,8 @@ public class PlayerMovementV2 : MonoBehaviour
     public float JumpForce = 20f;
     public GameObject bulletPrefab;
     public Transform shootSpawner;
+    public float damageTime = 1f;
+
 
     private Animator anim;
     private Rigidbody2D RGBD2D;
@@ -16,8 +19,11 @@ public class PlayerMovementV2 : MonoBehaviour
     private bool Grounded = false;
     private Transform groundCheck;
     private float hForce = 0;
-    private float fireRate = 0.5f;
+    public float fireRate = 0.5f;
+    private int health;
     private float nextFire;
+    private bool takeDamage;
+    private int maxHealth;
 
     private bool isDead = false;
     void Start()
@@ -25,6 +31,8 @@ public class PlayerMovementV2 : MonoBehaviour
         RGBD2D = GetComponent<Rigidbody2D>();
         groundCheck = transform.Find("GroundCheck");
         anim = GetComponent<Animator>();
+        health = maxHealth;
+
     }
 
     void Update()
@@ -103,5 +111,4 @@ public class PlayerMovementV2 : MonoBehaviour
         scale.x *= -1;
         transform.localScale = scale;
     }
-
 }

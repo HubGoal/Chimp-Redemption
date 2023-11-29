@@ -1,0 +1,1007 @@
+fileFormatVersion: 2
+guid: 0e49cb43fb6cf924ea0417eee652fcf7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BatenemyFly_0
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1691
+        width: 71
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a0be99cd495b447b2ec59f00366b63
+      internalID: 1114347616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_1
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1691
+        width: 78
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c4178d23da4ca4eaf98cb39692ec23
+      internalID: 1619764421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_2
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1691
+        width: 85
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb817ff1aef9e840bd1a34ff1c1f921
+      internalID: 1407420671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_3
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1691
+        width: 91
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20e605844efcb145ab7d88d21a08353
+      internalID: -1415677429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_4
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1691
+        width: 96
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c985b9c25cee69c44b597c97d4a76432
+      internalID: 234949728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_5
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1690
+        width: 96
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3fc0aaa6cc002478f2f5a010638ab1
+      internalID: -1253744667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_6
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1690
+        width: 94
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668cb415a39e8264dafadcab4cc997c6
+      internalID: 437900241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_7
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1434
+        width: 89
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bb9b4ff1e82fb4bb1ddcc9f3b97ba0
+      internalID: 1745309350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_8
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1434
+        width: 81
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8421e149a7b3e4a8a607172c5f3ae2
+      internalID: -1806380178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_9
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1434
+        width: 70
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089c09e0a49e59c478913b2e2b72d42b
+      internalID: -737573837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_10
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1434
+        width: 68
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af28a14a8eead7499cbd875824b01a4
+      internalID: 820892417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_11
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1434
+        width: 65
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbddf10a1e3e9804fa293b1f680550e4
+      internalID: 1633101800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_12
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1434
+        width: 65
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d562cfd27f133164192f54bdfeea482a
+      internalID: -1430685484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_13
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 1434
+        width: 64
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55eee1163178a6146a2f119f52928822
+      internalID: -759092887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1178
+        width: 73
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3c7c216f98de84c85b5318e26f1011
+      internalID: 1555463633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_15
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1178
+        width: 82
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3509435b3130d44aa39c60b23d2e41c
+      internalID: -578017164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_16
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1178
+        width: 88
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95b4f570bf328741b8a65a05f2090eb
+      internalID: 937363851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_17
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1178
+        width: 94
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b567f8985d54f614289c8ff0fab56312
+      internalID: 1426197615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_18
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1178
+        width: 97
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ebfaff384958f409acace435cc358a
+      internalID: 1172932129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_19
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1178
+        width: 95
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b727502c438d4ca49b4292f9d37ca0b0
+      internalID: 1966046595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_20
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 1179
+        width: 89
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964de51ff77257d468d020382040e314
+      internalID: 1482668246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_21
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 923
+        width: 80
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea17b7aa4aceb9043a7d0dc068f6523c
+      internalID: -1403832237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_22
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 923
+        width: 69
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25781e4b42cc4984fa39aa00a7affce9
+      internalID: 1858190527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_23
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 923
+        width: 63
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449c3115e812026478b26d669870c4bc
+      internalID: -636400456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_24
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 923
+        width: 57
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a3175491b6d264ab2180c7a98111a6
+      internalID: -1173071228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_25
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 923
+        width: 51
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8364a278d05c671418f33f2b2c0923c5
+      internalID: -1391363502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_26
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 923
+        width: 58
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be56e6d9eaef979418ff93cec2b8a0d7
+      internalID: 563158640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_27
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 923
+        width: 67
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8e1f944061063409e6eab0297d1647
+      internalID: -575345486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_28
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 667
+        width: 75
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579f6ab1b6221ad4da0145dd01f6ccc6
+      internalID: 1286960227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_29
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 667
+        width: 82
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c04d4aaaf86a54cbe4cd87822305ae
+      internalID: 1585714246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_30
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 667
+        width: 87
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a07654773bf8e4f8a91ab9d7e7a251
+      internalID: 927005547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_31
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 667
+        width: 91
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d92f64203dec746a3417b61dc2f30a
+      internalID: -1000954407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_32
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 667
+        width: 93
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba683b9a6eebdf94081ac9032eaa6cab
+      internalID: 1244148179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_33
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 667
+        width: 94
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e66e3416a563464c96fe53c9a9a1353
+      internalID: -203108659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_34
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 667
+        width: 93
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee97896ac5a468a489f969892635644d
+      internalID: 1170131952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_35
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 411
+        width: 92
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5674842150771a34bb2815f10c3589cd
+      internalID: 942288227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_36
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 411
+        width: 88
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5d1d5bf75757e4799c2830ed089c1c
+      internalID: 1156957809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_37
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 411
+        width: 84
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd311da02e0b6514a8f71228ab02568d
+      internalID: -512979797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_38
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 411
+        width: 78
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f5f916161c90446926c5e2d41b6101
+      internalID: -1054562173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BatenemyFly_39
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 411
+        width: 71
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d9f053a152dbb43bcb9de6cc9430cc
+      internalID: -1680822077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BatenemyFly_0: 1114347616
+      BatenemyFly_1: 1619764421
+      BatenemyFly_10: 820892417
+      BatenemyFly_11: 1633101800
+      BatenemyFly_12: -1430685484
+      BatenemyFly_13: -759092887
+      BatenemyFly_14: 1555463633
+      BatenemyFly_15: -578017164
+      BatenemyFly_16: 937363851
+      BatenemyFly_17: 1426197615
+      BatenemyFly_18: 1172932129
+      BatenemyFly_19: 1966046595
+      BatenemyFly_2: 1407420671
+      BatenemyFly_20: 1482668246
+      BatenemyFly_21: -1403832237
+      BatenemyFly_22: 1858190527
+      BatenemyFly_23: -636400456
+      BatenemyFly_24: -1173071228
+      BatenemyFly_25: -1391363502
+      BatenemyFly_26: 563158640
+      BatenemyFly_27: -575345486
+      BatenemyFly_28: 1286960227
+      BatenemyFly_29: 1585714246
+      BatenemyFly_3: -1415677429
+      BatenemyFly_30: 927005547
+      BatenemyFly_31: -1000954407
+      BatenemyFly_32: 1244148179
+      BatenemyFly_33: -203108659
+      BatenemyFly_34: 1170131952
+      BatenemyFly_35: 942288227
+      BatenemyFly_36: 1156957809
+      BatenemyFly_37: -512979797
+      BatenemyFly_38: -1054562173
+      BatenemyFly_39: -1680822077
+      BatenemyFly_4: 234949728
+      BatenemyFly_5: -1253744667
+      BatenemyFly_6: 437900241
+      BatenemyFly_7: 1745309350
+      BatenemyFly_8: -1806380178
+      BatenemyFly_9: -737573837
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

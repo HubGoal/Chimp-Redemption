@@ -8,7 +8,6 @@ public class Enemy : MonoBehaviour
     public int health;
     public float speed;
     public float attackdistance;
-    public GameObject deathanimation;
 
     protected Animator anim;
     protected bool Orientation;
