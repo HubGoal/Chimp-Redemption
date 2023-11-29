@@ -8,7 +8,7 @@ public class BioApeScript : Enemy
 
     public float walkDistance;
 
-    private bool Walk;
+    private bool Walk = false;
     private bool Attack = false;
 
 
@@ -29,6 +29,10 @@ public class BioApeScript : Enemy
         if(Mathf.Abs(targetDistance) < walkDistance)
         {
             Walk = true;
+        }
+        else
+        {
+            Walk = false;
         }
         if(Mathf.Abs(targetDistance) < attackdistance)
         {

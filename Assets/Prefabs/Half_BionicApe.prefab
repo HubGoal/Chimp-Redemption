@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 6172240377990132525}
   - component: {fileID: 5755091241427052029}
   - component: {fileID: 1412997348081386783}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Half_BionicApe
   m_TagString: Untagged
   m_Icon: {fileID: 0}
