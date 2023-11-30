@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<<< Updated upstream:Assets/SpriteSheets/background/background_color.png.meta
-guid: 5b7be53ffe76e4843b17d4bbc587827e
-========
-guid: 01fd6532daf657342a674efa5cf3912d
->>>>>>>> Stashed changes:Assets/SpriteSheets/background/buttonPlay.png.meta
+guid: 59ddaac6a766a70459556a3863efb921
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -38,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
