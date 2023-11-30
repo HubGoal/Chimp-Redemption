@@ -165,9 +165,9 @@ public class PlayerMovementV2 : MonoBehaviour
             for (float i = 0; i < damageTime; i+= 0.2f)
             {
                 GetComponent<SpriteRenderer>().enabled = false;
-                yield return new WaitForSeconds(0.1f);
+                yield return new WaitForSeconds(0.15f);
                 GetComponent<SpriteRenderer>().enabled = true;
-                yield return new WaitForSeconds(0.1f);
+                yield return new WaitForSeconds(0.15f);
 
             }
             Physics2D.IgnoreLayerCollision(9, 10, false);

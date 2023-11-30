@@ -20,14 +20,30 @@ public class PauseScript : MonoBehaviour
 
             if (isPaused)
             {
-                Time.timeScale = 0f;
-                pauseMenu.SetActive(true);
+                PauseGame();
             }
             else
             {
-                Time.timeScale = 1f;
-                pauseMenu.SetActive(false);
+                ResumeGame();
             }
         }
+    }
+
+    void PauseGame()
+    {
+        Time.timeScale = 0f;
+        pauseMenu.SetActive(true);
+
+        // Pausa la música deshabilitando el AudioListener
+        AudioListener.pause = true;
+    }
+
+    void ResumeGame()
+    {
+        Time.timeScale = 1f;
+        pauseMenu.SetActive(false);
+
+        // Reanuda la música habilitando el AudioListener
+        AudioListener.pause = false;
     }
 }

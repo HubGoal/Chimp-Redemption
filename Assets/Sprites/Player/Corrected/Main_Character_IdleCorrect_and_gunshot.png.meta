@@ -1,0 +1,725 @@
+fileFormatVersion: 2
+guid: e8f2c05f5051f2143bf32bdbcfa5f631
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Main_Character_IdleCorrect_and_gunshot_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1407
+        width: 85
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16beaea1c6cfa34aa7c5f320d65a97b
+      internalID: 1910527770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_IdleCorrect_and_gunshot_1
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1407
+        width: 98
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766d2aa1d9e4a6b40bb8e362aabccec7
+      internalID: -684758932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_IdleCorrect_and_gunshot_3
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1407
+        width: 101
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc7502a96137ec4dbabad50685ea33b
+      internalID: 1579613994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_IdleCorrect_and_gunshot_6
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1407
+        width: 100
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db160e0bfba86ba458ed8448e691d9c6
+      internalID: -117719551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_IdleCorrect_and_gunshot_9
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1407
+        width: 98
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69a22e01dd2ca04f9ebca5e6ccf40ad
+      internalID: -633222632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_IdleCorrect_and_gunshot_10
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1407
+        width: 97
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee067f589a0c61147889c3899b834fe9
+      internalID: -1071273827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_IdleCorrect_and_gunshot_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1151
+        width: 83
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f318d7198db43a4ca20404908863c26
+      internalID: -844952496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_IdleCorrect_and_gunshot_16
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1151
+        width: 83
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192a00a91c9682c4d8833bf71a71d79d
+      internalID: 2078267724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_IdleCorrect_and_gunshot_17
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1151
+        width: 87
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602efda043ef9e941b95b2c960ec2cef
+      internalID: -1680080863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_IdleCorrect_and_gunshot_30
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 967
+        width: 11
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca5452755bd7e149a773d3d36c047fe
+      internalID: 1985806651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_IdleCorrect_and_gunshot_32
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 969
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6bc25dcea534f48a5bd63560d28fa2
+      internalID: -1166109990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_IdleCorrect_and_gunshot_42
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 715
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7041b597e9175ce419259896aa32bd96
+      internalID: -1335404294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_IdleCorrect_and_gunshot_45
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 715
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b762ce71eedd4459726eeb5703447d
+      internalID: -1642711718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_IdleCorrect_and_gunshot_48
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 710
+        width: 11
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b6d611e90e2a948aea37976e5df3d3
+      internalID: 404809130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_IdleCorrect_and_gunshot_50
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 710
+        width: 11
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6d89d7e22b1d84f82b06debbf88888
+      internalID: 426312952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_IdleCorrect_and_gunshot_51
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 707
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ebf9b9220286b429402ca3b48ba358
+      internalID: -1756393755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_IdleCorrect_and_gunshot_52
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 707
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e8aefa86ca18f42b656307f4c63f7a
+      internalID: 183987118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_IdleCorrect_and_gunshot_61
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 460
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b2e931ae9797044bcdd612d0bbd9e3
+      internalID: 1283334736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_IdleCorrect_and_gunshot_62
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 456
+        width: 12
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f4bfeed7a77194d88c83a766399c87
+      internalID: 52437308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_IdleCorrect_and_gunshot_63
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 452
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf0f9516205c5f47bb2e1cdf237cd5a
+      internalID: 1482417013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_IdleCorrect_and_gunshot_65
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 204
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5470cb2c6a43ed449ab7263dc3d99f0
+      internalID: -1925172788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_IdleCorrect_and_gunshot_66
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 200
+        width: 12
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6e33c7b7744024e8b16f7ba0f1a922
+      internalID: -90027249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_IdleCorrect_and_gunshot_68
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 201
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61dc37ae153bba4d8c1876a9415dda0
+      internalID: 1012173901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_IdleCorrect_and_gunshot_70
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 201
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f654e88c65f268a479f7ba8bb7eba2ae
+      internalID: -364156203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Character_IdleCorrect_and_gunshot_72
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 196
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd2fc38fd8fa79448f2c51b95e0c94d
+      internalID: 2050310298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Main_Character_IdleCorrect_and_gunshot_0: 1910527770
+      Main_Character_IdleCorrect_and_gunshot_1: -684758932
+      Main_Character_IdleCorrect_and_gunshot_10: -1071273827
+      Main_Character_IdleCorrect_and_gunshot_11: -1013266137
+      Main_Character_IdleCorrect_and_gunshot_12: -23700293
+      Main_Character_IdleCorrect_and_gunshot_13: 414216946
+      Main_Character_IdleCorrect_and_gunshot_14: -1125739707
+      Main_Character_IdleCorrect_and_gunshot_15: -844952496
+      Main_Character_IdleCorrect_and_gunshot_16: 2078267724
+      Main_Character_IdleCorrect_and_gunshot_17: -1680080863
+      Main_Character_IdleCorrect_and_gunshot_18: 2056420215
+      Main_Character_IdleCorrect_and_gunshot_19: 1435138912
+      Main_Character_IdleCorrect_and_gunshot_2: -1462420994
+      Main_Character_IdleCorrect_and_gunshot_20: 1389195118
+      Main_Character_IdleCorrect_and_gunshot_21: -1604313847
+      Main_Character_IdleCorrect_and_gunshot_22: 130911817
+      Main_Character_IdleCorrect_and_gunshot_23: 336204731
+      Main_Character_IdleCorrect_and_gunshot_24: -1979939711
+      Main_Character_IdleCorrect_and_gunshot_25: -135551112
+      Main_Character_IdleCorrect_and_gunshot_26: -1461304078
+      Main_Character_IdleCorrect_and_gunshot_27: 1686098954
+      Main_Character_IdleCorrect_and_gunshot_28: 1695534812
+      Main_Character_IdleCorrect_and_gunshot_29: 2036481834
+      Main_Character_IdleCorrect_and_gunshot_3: 1579613994
+      Main_Character_IdleCorrect_and_gunshot_30: 1985806651
+      Main_Character_IdleCorrect_and_gunshot_31: -1881958182
+      Main_Character_IdleCorrect_and_gunshot_32: -1166109990
+      Main_Character_IdleCorrect_and_gunshot_33: -1642002778
+      Main_Character_IdleCorrect_and_gunshot_34: -1690697467
+      Main_Character_IdleCorrect_and_gunshot_35: -214336046
+      Main_Character_IdleCorrect_and_gunshot_36: 1439242554
+      Main_Character_IdleCorrect_and_gunshot_37: -1145833155
+      Main_Character_IdleCorrect_and_gunshot_38: -306095578
+      Main_Character_IdleCorrect_and_gunshot_39: -413833875
+      Main_Character_IdleCorrect_and_gunshot_4: -622379743
+      Main_Character_IdleCorrect_and_gunshot_40: -423594675
+      Main_Character_IdleCorrect_and_gunshot_41: 1801445604
+      Main_Character_IdleCorrect_and_gunshot_42: -1335404294
+      Main_Character_IdleCorrect_and_gunshot_43: 1081366930
+      Main_Character_IdleCorrect_and_gunshot_44: -493321463
+      Main_Character_IdleCorrect_and_gunshot_45: -1642711718
+      Main_Character_IdleCorrect_and_gunshot_46: -1955260933
+      Main_Character_IdleCorrect_and_gunshot_47: -1039546523
+      Main_Character_IdleCorrect_and_gunshot_48: 404809130
+      Main_Character_IdleCorrect_and_gunshot_49: 2066624223
+      Main_Character_IdleCorrect_and_gunshot_5: 1859362188
+      Main_Character_IdleCorrect_and_gunshot_50: 426312952
+      Main_Character_IdleCorrect_and_gunshot_51: -1756393755
+      Main_Character_IdleCorrect_and_gunshot_52: 183987118
+      Main_Character_IdleCorrect_and_gunshot_53: -707311321
+      Main_Character_IdleCorrect_and_gunshot_54: 395981364
+      Main_Character_IdleCorrect_and_gunshot_55: -191619038
+      Main_Character_IdleCorrect_and_gunshot_56: 69493568
+      Main_Character_IdleCorrect_and_gunshot_57: -616628740
+      Main_Character_IdleCorrect_and_gunshot_58: 1692415375
+      Main_Character_IdleCorrect_and_gunshot_59: 74087087
+      Main_Character_IdleCorrect_and_gunshot_6: -117719551
+      Main_Character_IdleCorrect_and_gunshot_60: -82913118
+      Main_Character_IdleCorrect_and_gunshot_61: 1283334736
+      Main_Character_IdleCorrect_and_gunshot_62: 52437308
+      Main_Character_IdleCorrect_and_gunshot_63: 1482417013
+      Main_Character_IdleCorrect_and_gunshot_64: -1601604157
+      Main_Character_IdleCorrect_and_gunshot_65: -1925172788
+      Main_Character_IdleCorrect_and_gunshot_66: -90027249
+      Main_Character_IdleCorrect_and_gunshot_67: -1359095241
+      Main_Character_IdleCorrect_and_gunshot_68: 1012173901
+      Main_Character_IdleCorrect_and_gunshot_69: 1645354204
+      Main_Character_IdleCorrect_and_gunshot_7: 925916005
+      Main_Character_IdleCorrect_and_gunshot_70: -364156203
+      Main_Character_IdleCorrect_and_gunshot_71: 698290269
+      Main_Character_IdleCorrect_and_gunshot_72: 2050310298
+      Main_Character_IdleCorrect_and_gunshot_8: -550620603
+      Main_Character_IdleCorrect_and_gunshot_9: -633222632
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

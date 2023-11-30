@@ -1,0 +1,809 @@
+fileFormatVersion: 2
+guid: db9891659b7c6a94e96fdcb57f2b743a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemyApeHalfBionic_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1408
+        width: 85
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744208ab6b8063347a1cc22be214811a
+      internalID: -1035864776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeHalfBionic_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1408
+        width: 85
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0195b59e123befc44a2baee99facad66
+      internalID: -410484420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeHalfBionic_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1408
+        width: 84
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec95e3664b7c33a45a43bd7a1d17540a
+      internalID: 1258032674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeHalfBionic_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1408
+        width: 84
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787c50a690adbe44eb2b2afff16d6180
+      internalID: -645661029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeHalfBionic_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1408
+        width: 83
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec51dbf47a9fd3418495a08ddd87855
+      internalID: -1211308132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeHalfBionic_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1408
+        width: 82
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2778b78e09ca840b947bca198d5369
+      internalID: 1224467167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeHalfBionic_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1151
+        width: 83
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3184aa2849f61f04691e069f4f2cef8f
+      internalID: 178988329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeHalfBionic_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1151
+        width: 83
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a93635779a9e4e4f976f18067e8fbd0
+      internalID: -539457611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeHalfBionic_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1151
+        width: 84
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0a431595186d94dbc751b78b95a9e3
+      internalID: -1618575888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeHalfBionic_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1151
+        width: 84
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ca5117a1171ae478a81c6c1bdf7245
+      internalID: 438502749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeHalfBionic_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1151
+        width: 85
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1eb9c7d7751b64281360af6e67c91f
+      internalID: -585509239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeHalfBionic_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1151
+        width: 86
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b98465f5efa344ab77dec4e093823e
+      internalID: 34962586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeHalfBionic_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 895
+        width: 86
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eda8c63232178848be41d521090856e
+      internalID: 1781706859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeHalfBionic_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 895
+        width: 87
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f64381a3931fc4fbb56002d93d1063
+      internalID: -2060750852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeHalfBionic_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 895
+        width: 87
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230f7cf38fb089b4fbe387dbe468bea1
+      internalID: 777618239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeHalfBionic_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 895
+        width: 88
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b28882d43fb0145ab252d911e776b3
+      internalID: 1748743201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeHalfBionic_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 895
+        width: 88
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4658bb214dd24044a10566550761aa6
+      internalID: -923280606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeHalfBionic_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 895
+        width: 88
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd6aeb358aa73a4fa9559b84126110a
+      internalID: -177143830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeHalfBionic_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 639
+        width: 89
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4660b238c61fb479a77e1120fafc3a
+      internalID: -448358047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeHalfBionic_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 639
+        width: 89
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4994484611db1c48837e7f631ca0cc7
+      internalID: -2092305327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeHalfBionic_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 639
+        width: 88
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413d3749d007eb44f971548bdd667c32
+      internalID: 1271318207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeHalfBionic_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 639
+        width: 88
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22074accabb1d046a37713ec2c7dd90
+      internalID: 1257025832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeHalfBionic_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 639
+        width: 88
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92107300acb1b9a4dbfdae8ae2c530be
+      internalID: -547503560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeHalfBionic_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 639
+        width: 88
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5771be243fdfb4cacea04532ecac45
+      internalID: -1922727688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeHalfBionic_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 383
+        width: 88
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381ae5aebe1bdd6498b9cb3eb2821c12
+      internalID: -611351430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeHalfBionic_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 384
+        width: 87
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b57b71699cb524cb7bfed627f4f361
+      internalID: 2016979304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeHalfBionic_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 384
+        width: 87
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d369c1a2edefd84dbd7779aa07f48f2
+      internalID: 2144844969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeHalfBionic_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 384
+        width: 87
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b813bac379654499a7d1e3d2f89897
+      internalID: 584386551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeHalfBionic_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 384
+        width: 86
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897a2f308ff302f4f918afbf6e855880
+      internalID: -1024559563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeHalfBionic_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 384
+        width: 85
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769bd2363fba8e94ab1ace5934c91ac9
+      internalID: -1292341591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyApeHalfBionic_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 128
+        width: 85
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d15b44216e9c24eae71dffabbcb88a
+      internalID: 1830204110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      EnemyApeHalfBionic_Idle_0: -1035864776
+      EnemyApeHalfBionic_Idle_1: -410484420
+      EnemyApeHalfBionic_Idle_10: -585509239
+      EnemyApeHalfBionic_Idle_11: 34962586
+      EnemyApeHalfBionic_Idle_12: 1781706859
+      EnemyApeHalfBionic_Idle_13: -2060750852
+      EnemyApeHalfBionic_Idle_14: 777618239
+      EnemyApeHalfBionic_Idle_15: 1748743201
+      EnemyApeHalfBionic_Idle_16: -923280606
+      EnemyApeHalfBionic_Idle_17: -177143830
+      EnemyApeHalfBionic_Idle_18: -448358047
+      EnemyApeHalfBionic_Idle_19: -2092305327
+      EnemyApeHalfBionic_Idle_2: 1258032674
+      EnemyApeHalfBionic_Idle_20: 1271318207
+      EnemyApeHalfBionic_Idle_21: 1257025832
+      EnemyApeHalfBionic_Idle_22: -547503560
+      EnemyApeHalfBionic_Idle_23: -1922727688
+      EnemyApeHalfBionic_Idle_24: -611351430
+      EnemyApeHalfBionic_Idle_25: 2016979304
+      EnemyApeHalfBionic_Idle_26: 2144844969
+      EnemyApeHalfBionic_Idle_27: 584386551
+      EnemyApeHalfBionic_Idle_28: -1024559563
+      EnemyApeHalfBionic_Idle_29: -1292341591
+      EnemyApeHalfBionic_Idle_3: -645661029
+      EnemyApeHalfBionic_Idle_30: 1830204110
+      EnemyApeHalfBionic_Idle_4: -1211308132
+      EnemyApeHalfBionic_Idle_5: 1224467167
+      EnemyApeHalfBionic_Idle_6: 178988329
+      EnemyApeHalfBionic_Idle_7: -539457611
+      EnemyApeHalfBionic_Idle_8: -1618575888
+      EnemyApeHalfBionic_Idle_9: 438502749
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
